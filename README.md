@@ -1,1 +1,5 @@
 # FearX-Tpmenu
+
+Advanced Tpmenu V1 
+
+# THIS SCRIPT IS PROTECTED UNDER GITHUBS GNU AGPL 
